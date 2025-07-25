@@ -4,7 +4,7 @@
 <h3 align="center">AI/ML Enthusiast | Curious in Data Science | Deep Learning Explorer</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="400" alt="Coder Girl">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="500" alt="Coder Girl">
 </p>
 
 ---
@@ -34,7 +34,7 @@
 #### 🔧 **Languages & Frameworks**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" width="80"/>
   <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white"/>
