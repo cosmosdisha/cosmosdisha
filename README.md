@@ -1,10 +1,10 @@
 
 
-<h1 align="center">Hi 👋, I'm Disha Kumar</h1>
+<h1 align="center">Hey!!! 👋</h1>
 <h3 align="center">AI/ML Enthusiast | Curious in Data Science | Deep Learning Explorer</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="200" alt="Coder Girl">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="400" alt="Coder Girl">
 </p>
 
 ---
@@ -85,12 +85,16 @@
 > “ Ctrl + Z has saved my life more times than I can count.”
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif" width="400" alt="AI animated">
+  <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="AI animated">
 </p>
 
 ---
 
-### 🌐 Let's Connect
+### 🌐 Let's Connect 
+
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="400" alt="Coder Girl">
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/disha-v-kumar-9b62b6269/)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dishavkumar468@gmail.com)
