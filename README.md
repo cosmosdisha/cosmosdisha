@@ -96,7 +96,15 @@
   <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="400" alt="Coder Girl">
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white,width="130")](https://www.linkedin.com/in/disha-v-kumar-9b62b6269/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dishavkumar468@gmail.com)
+
+<a href="https://www.linkedin.com/in/disha-v-kumar-9b62b6269/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="130"/>
+</a>
+
+
+<a href="mailto:dishavkumar468@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" height="130"/>
+</a>
+
 
 ---
