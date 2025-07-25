@@ -4,7 +4,7 @@
 <h3 align="center">AI/ML Enthusiast | Curious in Data Science | Deep Learning Explorer</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="800" alt="Coder Girl">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="600" alt="Coder Girl">
 </p>
 
 ---
